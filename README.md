@@ -7,22 +7,22 @@ Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
 
-To write a python program for getting the word count from a text file
+Import sys
 ### Step 2: 
 
- Open the required file by using the function "with"
+Open file using commandline arguments.
 ### Step 3: 
 
-Then use tha laptop to assign the i value in the file
+Using for loop find the word count from the contents of a file.
 ### Step 4:  
 
-Using split function to split the words
+Use len to count number of words.
 ### Step 5: 
 
-Finding the given length of the words by using len() function
+Give print statement.
 ### Step 6: 
 
-Calling the function and Printing the number of words
+End the program.
 
 ## PROGRAM:
 ```
@@ -37,9 +37,9 @@ print('num of words={}'.format(num_words))
 ```
 ### OUTPUT:
 
-![image](https://user-images.githubusercontent.com/121373170/214834184-83a01c71-7957-4210-a089-da45e0e73019.png)
+![image](https://user-images.githubusercontent.com/121373170/214841475-57c10fcd-cef1-48e6-829c-38cc1413f0ad.png)
 
-![image](https://user-images.githubusercontent.com/121373170/214834288-ce48ec19-6209-4459-8b77-6fc8b29c4319.png)
+![image](https://user-images.githubusercontent.com/121373170/214841615-ba14f543-a24c-45cb-885d-86ded77a656b.png)
 
 
 ## RESULT:
